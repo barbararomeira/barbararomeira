@@ -7,8 +7,8 @@
 
 <br>
 
-<a href="https://barbararomeira.com"><img src="./assets/link-website.svg" height="38" alt="website"></a>&nbsp;
-<a href="https://barbararomeira.substack.com"><img src="./assets/link-substack.svg" height="38" alt="substack"></a>&nbsp;
-<a href="https://www.linkedin.com/in/dr-barbara-gomes-romeira"><img src="./assets/link-linkedin.svg" height="38" alt="linkedin"></a>
+<a href="https://barbararomeira.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-website-dark.svg"><img src="./assets/link-website-light.svg" height="38" alt="website"></picture></a>&nbsp;
+<a href="https://barbararomeira.substack.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-substack-dark.svg"><img src="./assets/link-substack-light.svg" height="38" alt="substack"></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/dr-barbara-gomes-romeira"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-linkedin-dark.svg"><img src="./assets/link-linkedin-light.svg" height="38" alt="linkedin"></picture></a>
 
 </div>
