@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 178" width="510" height="178" role="img" aria-label="these days: Building all the projects I could never dream of building before / Discovering what works, and what fails / Figuring out myself and my path — just having fun 🍟">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 180" width="512" height="180" role="img" aria-label="these days: Building all the projects I could never dream of building before / Discovering what works, and what fails / Figuring out myself and my path — just having fun 🍟">
   <defs><style>
-    .lbl { font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace; font-size:12px; letter-spacing:1.6px; fill:#8b949e; }
+    .lbl { font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace; font-size:12px; letter-spacing:1.7px; fill:#8b949e; }
     .t { font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:16.5px; fill:#9BC0D2; }
-    .te { font-family:'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif; font-size:16.5px; }
   </style></defs>
-  <text x="3" y="16" class="lbl">THESE DAYS</text>
-  <rect x="0" y="30" width="504" height="40" rx="20.0" fill="#21303a"/>
-  <circle cx="21" cy="50.0" r="4" fill="#9BC0D2"/>
-  <text x="36" y="50.0" dominant-baseline="central" class="t">Building all the projects I could never dream of building before</text>
-  <rect x="0" y="81" width="336" height="40" rx="20.0" fill="#21303a"/>
-  <circle cx="21" cy="101.0" r="4" fill="#9BC0D2"/>
-  <text x="36" y="101.0" dominant-baseline="central" class="t">Discovering what works, and what fails</text>
-  <rect x="0" y="132" width="440" height="40" rx="20.0" fill="#21303a"/>
-  <circle cx="21" cy="152.0" r="4" fill="#9BC0D2"/>
-  <text x="36" y="152.0" dominant-baseline="central" class="t">Figuring out myself and my path — just having fun 🍟</text>
+  <text x="256" y="15" text-anchor="middle" class="lbl">THESE DAYS</text>
+  <rect x="3.9" y="30" width="504.3" height="40" rx="20.0" fill="#21303a"/>
+  <circle cx="24.9" cy="50.0" r="4" fill="#9BC0D2"/>
+  <text x="39.9" y="50.0" dominant-baseline="central" class="t">Building all the projects I could never dream of building before</text>
+  <rect x="87.8" y="82" width="336.4" height="40" rx="20.0" fill="#21303a"/>
+  <circle cx="108.8" cy="102.0" r="4" fill="#9BC0D2"/>
+  <text x="123.8" y="102.0" dominant-baseline="central" class="t">Discovering what works, and what fails</text>
+  <rect x="35.5" y="134" width="440.9" height="40" rx="20.0" fill="#21303a"/>
+  <circle cx="56.5" cy="154.0" r="4" fill="#9BC0D2"/>
+  <text x="71.5" y="154.0" dominant-baseline="central" class="t">Figuring out myself and my path — just having fun 🍟</text>
 </svg>
