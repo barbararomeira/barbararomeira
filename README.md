@@ -1,6 +1,3 @@
-<!-- Profile README for github.com/barbararomeira. Serif name + pills are
-     SVGs (GitHub strips CSS from READMEs); Playfair Display is OFL. -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hi-dark.svg">
   <img alt="Hi, I'm Bárbara" src="./assets/hi-light.svg" width="360">
