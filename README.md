@@ -20,8 +20,8 @@ Half AI, half factory floor, zero pretending I have it all sorted. I spent a PhD
 
 <br><br>
 
-<img src="./assets/mushu-fire.png" width="60" alt="Mushu, a small red dragon breathing fire" />
+<img src="./assets/mushu-fire.png" width="58" alt="Mushu, a small red dragon breathing fire" />
 
-<p><sub><b>Mushu</b>, my AI sidekick, read this and — reluctantly — gave it a</sub> ![verdict: KEEP](https://img.shields.io/badge/verdict-KEEP-75905A?style=flat-square)</p>
+<p><b>Mushu</b>, my AI sidekick, read this and — reluctantly — gave it a <img src="https://img.shields.io/badge/verdict-KEEP-75905A?style=flat-square" alt="verdict: KEEP" /></p>
 
 </div>
